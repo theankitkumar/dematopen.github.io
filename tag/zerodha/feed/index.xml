@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Zerodha &#8211; DematOpen</title>
+	<atom:link href="/tag/zerodha/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Best Demat Account in India</description>
+	<lastBuildDate>Mon, 24 Jul 2023 16:25:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/05/cropped-DematOpen-Logo-e1683015043100-32x32.webp</url>
+	<title>Zerodha &#8211; DematOpen</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Understanding BO ID (Beneficiary Owner Identification Number) in Zerodha</title>
+		<link>/understanding-bo-id-in-zerodha-unique-identification-number/</link>
+		
+		<dc:creator><![CDATA[Ankit kumar]]></dc:creator>
+		<pubDate>Mon, 24 Apr 2023 08:20:47 +0000</pubDate>
+				<category><![CDATA[Stock Brokers]]></category>
+		<category><![CDATA[BO id]]></category>
+		<category><![CDATA[Zerodha]]></category>
+		<guid isPermaLink="false">/?p=13880</guid>
+
+					<description><![CDATA[<p>A BO ID or Beneficiary Owner Identification Number is a unique 8 Digits Number assigned to an investor’s demat account ... </p>
+<p class="read-more-container"><a title="Understanding BO ID (Beneficiary Owner Identification Number) in Zerodha" class="read-more button" href="/understanding-bo-id-in-zerodha-unique-identification-number/#more-13880" aria-label="More on Understanding BO ID (Beneficiary Owner Identification Number) in Zerodha">Read more</a></p>
+<p>The post <a rel="nofollow" href="/understanding-bo-id-in-zerodha-unique-identification-number/">Understanding BO ID (Beneficiary Owner Identification Number) in Zerodha</a> appeared first on <a rel="nofollow" href="/">DematOpen</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Zerodha Review 2023 Demat, Brokerage Charges, Pros &#038; Cons, Trading Platforms</title>
+		<link>/zerodha-review-2023-demat-account-brokerage-charges/</link>
+		
+		<dc:creator><![CDATA[Ankit kumar]]></dc:creator>
+		<pubDate>Tue, 21 Mar 2023 02:28:31 +0000</pubDate>
+				<category><![CDATA[Demat Account]]></category>
+		<category><![CDATA[Reviews]]></category>
+		<category><![CDATA[Stock Brokers]]></category>
+		<category><![CDATA[Stock Broker Reviews]]></category>
+		<category><![CDATA[Zerodha]]></category>
+		<category><![CDATA[zerodha review]]></category>
+		<guid isPermaLink="false">/?p=13094</guid>
+
+					<description><![CDATA[<p>In India Zerodha has 1 Crore+ active customers, making it the largest retail stock broker in India. 🔍💡💡 Founded in ... </p>
+<p class="read-more-container"><a title="Zerodha Review 2023 Demat, Brokerage Charges, Pros &#038; Cons, Trading Platforms" class="read-more button" href="/zerodha-review-2023-demat-account-brokerage-charges/#more-13094" aria-label="More on Zerodha Review 2023 Demat, Brokerage Charges, Pros &#038; Cons, Trading Platforms">Read more</a></p>
+<p>The post <a rel="nofollow" href="/zerodha-review-2023-demat-account-brokerage-charges/">Zerodha Review 2023 Demat, Brokerage Charges, Pros &#038; Cons, Trading Platforms</a> appeared first on <a rel="nofollow" href="/">DematOpen</a>.</p>
+]]></description>
+		
+		
+		
+		<media:content url="https://www.youtube.com/embed/iYDw_9SinE4" medium="video" width="1280" height="720">
+			<media:player url="https://www.youtube.com/embed/iYDw_9SinE4" />
+			<media:title type="plain">How to open your Zerodha account online</media:title>
+			<media:description type="html"><![CDATA[In this video, we show you how you can open your Zerodha account online in just a few minutes. To open your account, head over to: https://signup.zerodha.com...]]>/</media:description>
+			<media:thumbnail url="/wp-content/uploads/2023/03/Stock-Broker-e1668344644777.png" />
+			<media:rating scheme="urn:simple">nonadult</media:rating>
+		</media:content>
+	</item>
+	</channel>
+</rss>
