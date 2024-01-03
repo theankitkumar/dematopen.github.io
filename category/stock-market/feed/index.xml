@@ -8,11 +8,11 @@
 	 xmlns:media="http://search.yahoo.com/mrss/" >
 
 <channel>
-	<title>Stock Market &#8211; DematOpen</title>
-	<atom:link href="https://localhost/wordpress/category/stock-market/feed/?simply_static_page=728" rel="self" type="application/rss+xml" />
+	<title>Stock Market &#8211; Dematopen</title>
+	<atom:link href="https://localhost/wordpress/category/stock-market/feed/?simply_static_page=4150" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>Best Demat Account in India</description>
-	<lastBuildDate>Thu, 31 Aug 2023 19:54:39 +0000</lastBuildDate>
+	<description>Trading with Top Stock Brokers In India</description>
+	<lastBuildDate>Wed, 03 Jan 2024 09:32:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>/wp-content/uploads/2023/05/cropped-DematOpen-Logo-e1683015043100-32x32.webp</url>
-	<title>Stock Market &#8211; DematOpen</title>
+	<title>Stock Market &#8211; Dematopen</title>
 	<link></link>
 	<width>32</width>
 	<height>32</height>
