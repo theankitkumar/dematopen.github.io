@@ -11,10 +11,10 @@
 			<head>
 				<xsl:choose>
 					<xsl:when test="kml:kml">
-						<title>Locations Sitemap - Dematopen</title>
+						<title>Locations Sitemap - DematOpen</title>
 					</xsl:when>
 					<xsl:otherwise>
-						<title>XML Sitemap - Dematopen</title>
+						<title>XML Sitemap - DematOpen</title>
 					</xsl:otherwise>
 				</xsl:choose>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />

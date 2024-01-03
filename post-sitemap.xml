@@ -2,47 +2,11 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2024-01-03T09:32:10+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/upstox-review-2024-demat-account-brokerage-charges/</loc>
-		<lastmod>2024-01-03T09:32:10+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Upstox-pro-Web.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Upstox-Pro-Mobile-App.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/plugins/mighty-pros-cons/assets/icons/thumbs-up-regular.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/plugins/mighty-pros-cons/assets/icons/thumbs-down-regular.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/zerodha-review-2024-demat-account-brokerage-charges/</loc>
-		<lastmod>2024-01-03T09:31:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/plugins/mighty-pros-cons/assets/icons/thumbs-up-regular.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/plugins/mighty-pros-cons/assets/icons/thumbs-down-regular.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/angel-one-review-2024-brokerage-charges/</loc>
-		<lastmod>2024-01-03T09:31:31+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/plugins/mighty-pros-cons/assets/icons/thumbs-up-regular.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/plugins/mighty-pros-cons/assets/icons/thumbs-down-regular.svg</image:loc>
-		</image:image>
+		<lastmod>2024-01-03T12:31:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/fyers-review-analysis-of-demat-account-brokerage/</loc>
-		<lastmod>2024-01-03T09:31:29+00:00</lastmod>
+		<lastmod>2024-01-03T12:31:09+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/Fyers-Web.webp</image:loc>
 		</image:image>
@@ -66,8 +30,50 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/upstox-review-2024-demat-account-brokerage-charges/</loc>
+		<lastmod>2024-01-03T12:28:25+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Upstox-pro-Web.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Upstox-Pro-Mobile-App.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/mighty-pros-cons/assets/icons/thumbs-up-regular.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/mighty-pros-cons/assets/icons/thumbs-down-regular.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/angel-one-review-2024-brokerage-charges/</loc>
+		<lastmod>2024-01-03T12:28:20+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/plugins/mighty-pros-cons/assets/icons/thumbs-up-regular.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/mighty-pros-cons/assets/icons/thumbs-down-regular.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/groww-review-demat-account-brokerage-pros-cons/</loc>
+		<lastmod>2024-01-03T12:28:13+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Groww-WEB.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/04/Groww-WEB-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/mighty-pros-cons/assets/icons/thumbs-up-regular.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/plugins/mighty-pros-cons/assets/icons/thumbs-down-regular.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>/paytm-money-review-demat-brokerage-trading-pros-cons/</loc>
-		<lastmod>2024-01-03T09:31:29+00:00</lastmod>
+		<lastmod>2024-01-03T12:28:13+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/04/Paytm-Money-Web-Trading.webp</image:loc>
 		</image:image>
@@ -82,14 +88,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/groww-review-demat-account-brokerage-pros-cons/</loc>
-		<lastmod>2024-01-03T09:31:25+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Groww-WEB.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/04/Groww-WEB-1.webp</image:loc>
-		</image:image>
+		<loc>/zerodha-review-2024-demat-account-brokerage-charges/</loc>
+		<lastmod>2024-01-03T12:28:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/plugins/mighty-pros-cons/assets/icons/thumbs-up-regular.svg</image:loc>
 		</image:image>
