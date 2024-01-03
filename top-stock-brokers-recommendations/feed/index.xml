@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: 💰📈 Top Stock Broker Recommendations for Demat Accounts in 2023 🔍🤔	</title>
-	<atom:link href="/top-stock-brokers-recommendations/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost/wordpress/top-stock-brokers-recommendations/feed/?simply_static_page=1198" rel="self" type="application/rss+xml" />
 	<link>/top-stock-brokers-recommendations/</link>
 	<description>Best Demat Account in India</description>
 	<lastBuildDate>Sat, 22 Apr 2023 07:39:09 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 </channel>
 </rss>

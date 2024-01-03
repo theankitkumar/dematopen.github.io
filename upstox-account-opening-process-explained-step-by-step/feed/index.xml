@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Upstox Account Opening Process Explained Step by Step.	</title>
-	<atom:link href="/upstox-account-opening-process-explained-step-by-step/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost/wordpress/upstox-account-opening-process-explained-step-by-step/feed/?simply_static_page=1182" rel="self" type="application/rss+xml" />
 	<link>/upstox-account-opening-process-explained-step-by-step/</link>
 	<description>Best Demat Account in India</description>
 	<lastBuildDate>Sat, 22 Apr 2023 18:42:06 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 </channel>
 </rss>

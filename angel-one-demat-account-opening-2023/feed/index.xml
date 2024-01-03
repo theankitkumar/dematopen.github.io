@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Angel One Demat Account opening 2023	</title>
-	<atom:link href="/angel-one-demat-account-opening-2023/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost/wordpress/angel-one-demat-account-opening-2023/feed/?simply_static_page=1106" rel="self" type="application/rss+xml" />
 	<link>/angel-one-demat-account-opening-2023/</link>
 	<description>Best Demat Account in India</description>
 	<lastBuildDate>Mon, 12 Jun 2023 19:41:20 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 </channel>
 </rss>

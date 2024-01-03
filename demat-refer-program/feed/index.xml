@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: Demat Account Open	</title>
-	<atom:link href="/demat-refer-program/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost/wordpress/demat-refer-program/feed/?simply_static_page=1238" rel="self" type="application/rss+xml" />
 	<link>/demat-refer-program/</link>
 	<description>Best Demat Account in India</description>
 	<lastBuildDate>Fri, 22 Apr 2022 17:06:05 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
 </channel>
 </rss>

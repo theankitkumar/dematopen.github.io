@@ -632,7 +632,7 @@
 			<image:loc>/wp-content/uploads/2021/10/1-3-1024x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://dematopen.com/wp-content/uploads/2021/01/PAPERLESS-copy.png</image:loc>
+			<image:loc>https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://localhost:4433/wordpress/wp-content/uploads/2021/01/PAPERLESS-copy.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/01/Google-Play-vs-Apple-App-Store-2-300x51.png</image:loc>
@@ -649,7 +649,7 @@
 		<loc>/demat-refer-program/</loc>
 		<lastmod>2023-03-16T18:33:24+00:00</lastmod>
 		<image:image>
-			<image:loc>https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768,h_759/https://dematopen.com/wp-content/uploads/2020/12/earning-proof-768x759.jpg</image:loc>
+			<image:loc>https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_768,h_759/https://localhost:4433/wordpress/wp-content/uploads/2020/12/earning-proof-768x759.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2021/01/Google-Play-vs-Apple-App-Store-2-300x51.png</image:loc>
