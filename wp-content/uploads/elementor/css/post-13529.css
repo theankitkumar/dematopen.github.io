@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "";
-		</script>
-
-		<p>You are being redirected to <a href=""></a></p>
-	</body>
-</html>
+.elementor-13529 .elementor-element.elementor-element-4c8a8a5a .elementor-button .elementor-align-icon-right{margin-left:2px;}.elementor-13529 .elementor-element.elementor-element-4c8a8a5a .elementor-button .elementor-align-icon-left{margin-right:2px;}.elementor-13529 .elementor-element.elementor-element-4c8a8a5a .elementor-button{font-family:"Arial", Sans-serif;font-weight:500;text-shadow:0px 0px 10px rgba(0,0,0,0.3);fill:#FFFFFF;color:#FFFFFF;background-color:var( --e-global-color-24f7e0d4 );}.elementor-13529 .elementor-element.elementor-element-4c8a8a5a .elementor-button:hover, .elementor-13529 .elementor-element.elementor-element-4c8a8a5a .elementor-button:focus{background-color:#3974E9;}.elementor-13529 .elementor-element.elementor-element-4c8a8a5a{width:100%;max-width:100%;}@media(max-width:767px){.elementor-13529 .elementor-element.elementor-element-59a856e9{font-size:18px;}.elementor-13529 .elementor-element.elementor-element-4c8a8a5a .elementor-button{font-size:18px;}}@media(min-width:768px){.elementor-13529 .elementor-element.elementor-element-50994142{width:100%;}}/* Start custom CSS for text-editor, class: .elementor-element-59a856e9 */h2{background-color:#f9c74f;padding:10px 20px;border-radius:10px;display:inline-block}/* End custom CSS */
+/* Start custom CSS */.my-custom-class {
+    font-size: 28px !important;
+}/* End custom CSS */
