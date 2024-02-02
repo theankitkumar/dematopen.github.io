@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Demat Account &#8211; DematOpen</title>
-	<atom:link href="https://localhost/wordpress/category/demat-account/feed/?simply_static_page=5978" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost/wordpress/category/demat-account/feed/?simply_static_page=7239" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Trading With Top Stock Brokers in India</description>
 	<lastBuildDate>Thu, 04 Jan 2024 10:57:29 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/05/cropped-DematOpen-Logo-e1683015043100-32x32.webp</url>

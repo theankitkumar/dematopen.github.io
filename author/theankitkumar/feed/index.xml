@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Ankit kumar &#8211; DematOpen</title>
-	<atom:link href="https://localhost/wordpress/author/theankitkumar/feed/?simply_static_page=5975" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost/wordpress/author/theankitkumar/feed/?simply_static_page=7236" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Trading With Top Stock Brokers in India</description>
 	<lastBuildDate>Wed, 03 Jan 2024 12:31:09 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/05/cropped-DematOpen-Logo-e1683015043100-32x32.webp</url>

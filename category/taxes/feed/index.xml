@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Taxes &#8211; DematOpen</title>
-	<atom:link href="https://localhost/wordpress/category/taxes/feed/?simply_static_page=6217" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost/wordpress/category/taxes/feed/?simply_static_page=7478" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Trading With Top Stock Brokers in India</description>
 	<lastBuildDate>Mon, 24 Apr 2023 14:15:49 +0000</lastBuildDate>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2023/05/cropped-DematOpen-Logo-e1683015043100-32x32.webp</url>

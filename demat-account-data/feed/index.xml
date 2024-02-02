@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments on: How to open Demat Account ?	</title>
-	<atom:link href="https://localhost/wordpress/demat-account-data/feed/?simply_static_page=6099" rel="self" type="application/rss+xml" />
+	<atom:link href="https://localhost/wordpress/demat-account-data/feed/?simply_static_page=7360" rel="self" type="application/rss+xml" />
 	<link>/demat-account-data/</link>
 	<description>Trading With Top Stock Brokers in India</description>
 	<lastBuildDate>Mon, 24 Apr 2023 14:13:02 +0000</lastBuildDate>
@@ -16,6 +16,6 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 </channel>
 </rss>
