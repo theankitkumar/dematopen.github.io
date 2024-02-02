@@ -1,1 +1,35 @@
-.elementor-14679 .elementor-element.elementor-element-da851e6 .elementor-wrapper{--video-aspect-ratio:1.77777;}body.elementor-page-14679:not(.elementor-motion-effects-element-type-background), body.elementor-page-14679 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-259d53d7 );}
+body.elementor-page-14679:not(.elementor-motion-effects-element-type-background), body.elementor-page-14679 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:var( --e-global-color-259d53d7 );}/* Start custom CSS for html, class: .elementor-element-9b5e437 *//* Video container styles */
+.video-container {
+    position: relative;
+    width: 100%;
+    max-width: 800px; /* Set the maximum width as per your design */
+    margin: 0 auto; /* Center the container */
+    background-color: transparent; /* Set background to transparent */
+    padding: 5px; /* Padding */
+    border-radius: 10px; /* Border radius */
+    overflow: hidden; /* Ensure the border-radius is applied to the video */
+    box-shadow: 0 0 5px rgba(63, 91, 217, 0.7); /* Initial box shadow (#3F5BD9 color) */
+
+    /* Continuous RGB border glow animation */
+    animation: borderGlow 2s linear infinite alternate;
+}
+
+/* Video styles */
+.video-container video {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 8px; /* Add border-radius to the video to match container */
+}
+
+/* Continuous RGB border glow animation keyframes */
+@keyframes borderGlow {
+    0% {
+        box-shadow: 0 0 5px rgba(63, 91, 217, 0.7), 0 0 5px rgba(63, 91, 217, 0.7);
+    }
+    100% {
+        box-shadow: 0 0 20px rgba(63, 91, 217, 0.7), 0 0 20px rgba(63, 91, 217, 0.7),
+                    0 0 40px rgba(63, 91, 217, 0.7), 0 0 40px rgba(63, 91, 217, 0.7),
+                    0 0 60px rgba(63, 91, 217, 0.7), 0 0 60px rgba(63, 91, 217, 0.7);
+    }
+}/* End custom CSS */
